@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "73677742162",
+    "project_id": "my-application-89aa2",
+    "storage_bucket": "my-application-89aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73677742162:android:192a6d253010fe46273f8b",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73677742162-j3c697e14dbl0dnd387ooaf1nmugsft4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2_Dv9lRQmQ8wWPk5yQqcev-Bbr6SPo6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73677742162-j3c697e14dbl0dnd387ooaf1nmugsft4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73677742162:android:c81761109609bb0b273f8b",
+        "android_client_info": {
+          "package_name": "com.example.wheathera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73677742162-j3c697e14dbl0dnd387ooaf1nmugsft4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2_Dv9lRQmQ8wWPk5yQqcev-Bbr6SPo6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73677742162-j3c697e14dbl0dnd387ooaf1nmugsft4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
